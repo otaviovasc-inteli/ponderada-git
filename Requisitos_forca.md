@@ -7,6 +7,6 @@ O jogador deve poder inserir letras ou palavras como tentativa de resposta.
 O sistema deve informar se o jogador venceu ou perdeu.
 
 Requisitos Não Funcionais
-O sistema deve carregar em menos de 2 segundos.
-Deve ser acessível via dispositivos móveis e desktop.
+O sistema deve carregar em menos de 10 segundos.
+Deve ser acessível via dispositivos móveis e desktop(ser responsivo).
 A interface deve ser intuitiva e amigável.
